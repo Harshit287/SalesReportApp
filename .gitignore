@@ -1,0 +1,16 @@
+# Distribution / packaging
+.Python
+Lib/
+bin/
+Include/
+Scripts/
+
+### Django ###
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+pyvenv.cfg
+.env
+db.sqlite3

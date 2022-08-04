@@ -34,6 +34,9 @@ To start using webapp
 3.  Now change current directory to `src`:
     > cd src
     
+    create superuser with command:
+    > python manage.py createsuperuser
+    
     then run the webapp using command:
     > python manage.py runserver
     
